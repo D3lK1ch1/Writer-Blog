@@ -1,0 +1,35 @@
+.logo{
+    text-align: center;
+    display: block;
+}
+
+.headline{
+    text-align: center;
+    display: block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(18, 20, 135);
+}
+
+.nav{
+    text-align: right;
+    display: block;
+    color:brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.social-icons{
+    text-align: left;
+    display: block;
+}
+
+.social-icons:hover{
+    opacity: 0.7;
+    transition: all 0.3s ease-in-out;
+}
+
+.footer-note{
+    font-size: 0.8em;
+    color: rgb(240, 13, 13);
+    font-style: italic;
+    text-align: center;
+}

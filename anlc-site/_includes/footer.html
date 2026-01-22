@@ -1,0 +1,17 @@
+<link rel = "stylesheet" href="/assets/css/main.css">
+<footer class="site-footer h-card">
+    <div class="footer-col footer-col-2"><ul class="social-media-list">
+        {%- if site.wattpad -%}
+        <li><a href="{{ site.wattpad }}"><img src = "{{'../assets/images/wattpad.png' | relative_url}}" class = "social-icon"></a></li>
+        {%- endif -%}
+        {%- if site.ao3 -%}
+        <li><a href = "{{ site.ao3 }}"><img src = "{{'../assets/images/ao3.png' | relative_url}}" class = " social-icon"></a></li>
+        {%- endif -%}
+    </ul>
+    </div>
+
+    <div class="footer-col footer-col-3">
+        <p class="footer-note">By {{ site.author }} </p>
+        <p class="footer-note">Click on the links for my still ongoing cringe fanfiction pipeline if you dare</p> 
+    </div>
+</footer>
