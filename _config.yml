@@ -25,8 +25,8 @@ author: Kasey Harts
 
 logo: /assets/images/KaseyHeartsSign.png
 
-baseurl: "" # the subpath of your site, e.g. /blog - dependent on the rep name so leave empty
-url: "http://anlc-site" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/d3lk1ch1" # the subpath of your site, e.g. /blog - dependent on the rep name so leave empty
+url: "http://anlc-site.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 #Social links
 wattpad: "https://www.wattpad.com/user/DhizKCH"
