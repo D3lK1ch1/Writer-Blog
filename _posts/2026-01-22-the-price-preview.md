@@ -5,7 +5,7 @@ date:   2026-01-22
 categories: Anthology
 ---
 
-![Amateur Book Cover](/assets/images/ThePrice.jpg)
+![Amateur Book Cover]({{site.baseurl}}/assets/images/ThePrice.jpg)
 
 There was always this vivid dream, so dark filled with anger, sadness and curses more akin to a nightmare. And yet it was the most vivid dream for a certain man to wake up feeling refresh with a wide smile gracing his face and gleefully laughing at the world.
 
