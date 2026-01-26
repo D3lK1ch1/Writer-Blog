@@ -17,7 +17,6 @@ layout: default
         <h3> {{month.name}} {{month.year}}</h3>
         <li> {%- for post in month.items -%}  
           <li>
-              <span class="post-meta">{{ post.date | date: date_format }}</span>
               <a class="post-link" href="{{ post.url | relative_url }}">
                 {{ post.title | escape }}
               </a>

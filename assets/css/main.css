@@ -33,3 +33,15 @@
     font-style: italic;
     text-align: center;
 }
+
+.post-list{
+    display: block;
+}
+.post-link{
+    text-decoration: none;
+    color: rgb(43, 28, 61);
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    margin: 5em;
+}
