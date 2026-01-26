@@ -8,7 +8,7 @@ Live Demo here: https://d3lk1ch1.github.io/Writer-Blog/
 * Header: Anthologies, Niches, Lore, Conspiracies (Done)
 * Side-bar: Search-box for tags that update upon themselves depending on what I blog ex: #shortstories #antiBL #prologue #lore #mystery etc (In Progress)
 * Center: Where people pull up my blogs (Done)
-* Blogs: Have a comment section for anyone that bothers (In Progress)
+* Blogs: Have a comment section for anyone that bothers (Done - Only GitHub users can comment on posts, because using GitHub to host the page.)
 
 ## Tech Stack / Configuration
 * Jekyll, in creating this blog. I'm leaving it to the documentation and hope it fits my criteria -> Update: A learning process but tackling the basics down - from using AI to aid me and then doing the core bits myself the second time to know what is necessary and what has been unnecessarily added by AI. Can less be more?
