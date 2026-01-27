@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "Do Souls Dream?"
-date:   2026-01-28 
-categories: Anthology
-published: false
+date:   2026-01-27 
+categories: Lore
 ---
 
 XX-XX-XXXX
@@ -25,6 +24,8 @@ Bah, what do they know?
 
 Can they explain everything? Scientists would blame it on placebo, and even those claiming open-mindedness would say that it's all in the head. It can be easily concluded that they just don't want to know. Because they cannot explain everything, even refused to. Because they refuse to acknowledge what cannt be explained can be easily known if they go beyond their beliefs, from the purely logical framework scientists have to the narrow-minded rigid rules religion can carry, dependent to the higher power they choose to solely believe in over all else that they would never acknowledge otherwise as real.
 
+~~Because they think they can explain away the gentle touches I feel that no one else sees, and the sense of peace I only get at that before... No, I know what religion will say but they are wrong, because I know what I'm feeling. I know it's also more than placebo. I know!~~
+
 I will keep collecting, because I will explain everything. Not even when people call that insanity, when it takes a toll knowing the universe is too big for one person to even comprehend.
 
 Because how else will I get the results I desire?
@@ -39,7 +40,37 @@ When souls are neither fit to heaven or hell, remain on earth they do but unaliv
 
 There are so much more definition to ghosts, attributed to so-called ghost sightings and related to the passing chilled wind, the spine chilling unease, the dead seen in a blur, the curses completely inhumane, the absolute basis of the occult even because where else would curses, consequences and the absolutely payment against such tomfoolery come from to even be inflicted violently upon poor souls.
 
+~~Maybe even _guardian angels_~~
 
+I just have to... sight...
+
+<p align = center> --- </p>
+
+**Sighting #XX**
+
+... don't notice us? I swear their eyes are vacant, and not because of whatever blurry ectoplasm they have? I decided to dare touch one of them. It was an out-of-the-world experience. I can't even remember what happened excpet for a faint feeling.
+
+It's almost like I was dreaming-
+
+<p align = center> --- </p>
+
+-dangerous to do it for everyone. There are many different types no matter how anyone in my head says. If I had correlated to the ghosts to the souls, and that touching them gives me a dream because in passing through the ghost, the soul could have temporarily possesed my body while they were unaware because ghosts are unaware. Hypothesis untested, but similar to:
+
+Sleeping like the dead may be a true metaphor after all. We black out, and we rest, not living when our consciousness shuts down, for our subconscious to generate dreams from experiences before that seemed like the life we would live until we only to wake up alive again and forgetting the dream, forgetting another life. The only difference is that the dead sleep eternally. With the existance of ghosts and being caught unaware, what if their souls are trapped in a dream, forever alive in such moments and yet never knowing what really happened to them in this life?
+
+I have collected XX amount of sightings now, and that would explain the ghost dispositions, but the more violent ones-
+
+<p align = center> --- </p>
+The damn Black Forest, the energy can be felt and the whispers unintelligable yet felt with only the kind of malice truly feared for so many people. Whatever those ghosts dream, they can only be described as trapped nightmares. Or maybe, they already woke up vying for our life because I could feel my own life dreained just being in the vicinity. When the dead that dreamed of their own life without being aware what really happened to them, when the reality had caught up to them in their death for whaever reason that led them to this state... why would the dead want to live?
+
+~~Why wouldn't the dead want to live? Because I'm sure if I passed on and~~
+
+I have gathered enough data. Those violent souls are not my prioritiy and this isn't where I would like to try anything out just to confirm the dreams, the lingering 'maybe that happened to me' and what death truly means to our own souls.
+
+I'm getting somewhere, I know it. No matter what anyone says.
+
+~~Hang on, you will come back. Not just watching over me like I know you are doing but really, really will be back. Hang on~~
+ 
 
 _Written in a worn journal marked wihout belonging except for a little bluejay at the very bottom corner._
 
