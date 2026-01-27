@@ -6,6 +6,7 @@ categories: Lore
 ---
 
 XX-XX-XXXX
+
 ... cannot be ~~dead~~,... refuse to... ~~THEY ARE ALIVE, THEY CANNOT~~ Just because they are... not here does not mean. ... ^&@($!&$^@$+_?:"@)@
 
 [The writing becomes unintelligable, a mess until...]
