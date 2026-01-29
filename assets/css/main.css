@@ -34,14 +34,20 @@
     text-align: center;
 }
 
-.post-list{
-    display: block;
-}
 .post-link{
     text-decoration: none;
     color: rgb(43, 28, 61);
     font-size: large;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bold;
-    margin: 5em;
+    padding : 5%;
+}
+
+.post-header{
+    display: block;
+    padding: 2%;
+}
+
+
+.post-content{
+    padding: 5%;
 }
