@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 author: Kasey Harts
 logo: /assets/images/KaseyHeartsSign.png
 
-baseurl: "/d3lk1ch1" # the subpath of your site, e.g. /blog - dependent on the rep name so leave empty
+baseurl: "/D3lK1ch1" # the subpath of your site, e.g. /blog - dependent on the rep name so leave empty
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #Social links
