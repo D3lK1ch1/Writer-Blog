@@ -1,6 +1,8 @@
-.logo{
+.image{
     text-align: center;
     display: block;
+    max-width: 100%;
+    height: auto;
 }
 
 .headline{
@@ -17,14 +19,21 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+.social-media-list{
+    list-style-type: none;
+    gap: 15px;
+    padding: 0;
+    margin: 0;
+}
 .social-icons{
-    text-align: left;
-    display: block;
+    align-items: center;
+    gap: 10px;
 }
 
-.social-icons:hover{
-    opacity: 0.7;
-    transition: all 0.3s ease-in-out;
+.footer-col-1{
+    display: flex;
+    align-items: center;
+    gap: 15%;
 }
 
 .footer-note{
@@ -32,21 +41,26 @@
     color: rgb(240, 13, 13);
     font-style: italic;
     text-align: center;
+    margin: 0.25rem 0;
 }
+
+.post-list{
+    list-style-type: none;
+    padding: 5%;
+}
+
 
 .post-link{
     text-decoration: none;
     color: rgb(43, 28, 61);
     font-size: large;
     font-weight: bold;
-    padding : 5%;
 }
 
 .post-header{
     display: block;
     padding: 2%;
 }
-
 
 .post-content{
     padding: 5%;

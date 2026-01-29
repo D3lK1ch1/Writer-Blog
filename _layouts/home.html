@@ -8,21 +8,23 @@ layout: default
   {%- endif -%}
   {{ content }}
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <li class="post-list">
-      {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
-      {%- assign postsByMonth = 
-      site.posts | group_by_exp:"post", "post.date | date: '%B %Y'" -%}
-      {%- for month in postsByMonth -%}
-        <h3> {{month.name}} {{month.year}}</h3>
-        <li> {%- for post in month.items -%}  
-          <li>
-              <a class="post-link" href="{{ post.url | relative_url }}">
-                {{ post.title | escape }}
-              </a>
-            </li>
-      {%- endfor -%}
-    </li>
+   <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+
+{%- assign postsByMonth =
+  site.posts | group_by_exp:"post", "post.date | date: '%B %Y'" -%}
+
+{%- for month in postsByMonth -%}
+  <h3>{{ month.name }}</h3>
+
+  <ul class="post-list">
+    {%- for post in month.items -%}
+      <li>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </li>
     {%- endfor -%}
+  </ul>
+  {%- endfor -%}
   {%- endif -%}
 </div>

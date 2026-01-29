@@ -5,8 +5,9 @@ date:   2026-01-29
 categories: Lore
 ---
 
-![Crime Lord Book Cover]({{site.baseurl}}/assets/images/CrimeLord.png)
-
+<div class = image>
+<img src ="{{site.baseurl}}/assets/images/CrimeLord.png">
+</div>
 It was a peaceful night shattered with a bang, violence thundering at the place no other than an abandoned warehouse, infamous for shady dealings and sleeping bears never poked. Anyone daring for a rush of an adrenaline could only venture forth to the start of cracked floors and bloody hacking surprisingly made by only two men rather than a group of gangsters in all-out war.
 
 And yet, it was in such bitterness and triumph that the two men held in this eye of the storm that the danger and damage could only be counted unsurprising, simply unknown at that time to be history-changing.
