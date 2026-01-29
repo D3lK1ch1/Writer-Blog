@@ -67,7 +67,7 @@ _But you couldn't even face-_
 <p style ="font-style: italic;">Hear no evil<br>
 With both a bang and whimper <br>
 Going for nil <br>
-How will you avoid the cinders?
+How will you avoid the cinders?</p>
 </div>
 
 Have you heard? About such a crash? Shots, some people say! How has anyone gone insane is beyond-
@@ -132,7 +132,7 @@ _Now what matters is whether you have survived._
 <p style ="font-style: italic;">Speak no evil<br>
 Within cards written line for line<br>
 Statements undefied for retrieval<br>
-Can you escape what's divined?
+Can you escape what's divined?</p>
 </div>
 
 Have you known? That once pushed it is written in the stars.
