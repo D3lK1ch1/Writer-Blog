@@ -109,7 +109,7 @@ To what end? Did Luka meant the rescue, or was it this backstabbing, this power 
 
 Luka shrugged casually while Karter did his best repressing the shiver, wanting to shout how different they were. The crime lord and the slave. The torturer and the avenger. The kidnapper and the rescuer. Completely on opposite sides, and yet the grain of truth that even opposite sides can be tarred from the same brush and they make the worst enemies, because it's those types that can get under your skin _this easily._
 
-Karter's hands moved again, and Luka fired yet another shot that he had to dodge out of the way breaking off the perfect circle they treaded. Even when the intermit had been broken, the fight had not yet continued, held back in Luka's bright eyes wanting to know he was _right_ all along that Karter's darkening eyes granting rightful refusal.
+Karter's hands moved again, and Luka fired not another bullet but chain that he tried to dodge and failed when it looped aroud his arm, breaking off the perfect circle they treaded. Even when the intermit had been broken, the fight had not yet continued, held back in Luka's bright eyes wanting to know he was _right_ all along that Karter's darkening eyes granting rightful refusal.
 
 Neither would have budged on that point anyway, up to the interpretation of the individual.
 
@@ -123,13 +123,21 @@ _"The clean-up mission. A little too clean. If I wasn't the one who ordered it d
 
 _"So?" Karter asked, curt knowing that the faster he moved Luka on, the faster he would leave._
 
-_"Missing people, natural disaster. Done a little too cleanly, a little too much. To the point it would hide something throughly, never noticed by people who would not try to find."_
+_"Missing people, natural disaster. Done a little too cleanly, a little too much. Earthquakes, craters that have been starting to be less like coincidences. To the point it would hide something throughly, never noticed by people who would not try to find."_
 
-_Karter's neutral expression did not even break despite Luka approaching nearer, a point of their relationship that they both understood what had been implied, what was going on and yet neither giving an inch to this gaping 
+_Karter's neutral expression did not even break despite Luka approaching nearer, a point of their relationship that they both understood what had been implied, what was going on and yet neither giving a tug in this cold war of theirs._
 
- 
+_"One day you will slip. Stop being unknown," Luka whispered, eyes agleamed with interest Karter wanted to stay far away._
 
-"Well, too bad, you should know better a slave could never rise up above their master."
+_"You only see what you get," Karter said blandly, refusing to show anything else._
+
+_"Until you decide to show more. After all, you do try too hard," Luka declared, finally giving each of them breathing room._
+
+_"Thanks for keeping things interesting. Keep it up," Luka finished, and smirked without Karter knowing why until he realized the tug in his mouth and with just a touch knew had been a smile, towards the bastard. It was all that Luka would need to know, and what Karter refused to acknowledged._
+
+A resounding click had reeled Karter towards Luka, caught firmly by the waist and trapped both hands from activating what powers with one unmoving to the side and the other literally chained. 
+
+"Really, you should know better a slave could never rise up above their master."
 
 "I was _never_ your slave."
 
@@ -139,53 +147,37 @@ _Karter's neutral expression did not even break despite Luka approaching nearer,
 
 "It's an unorthodox loyalty, but loyalty that mattered to me," came out Luka's twisted logic, "You were simply honest, with some stubborn rebellion. Nothing wrong with that," Luka chuckled, "It can be fun talking to someone like that, until they bear no use to me."
 
+"Then, why not end it?" Karter defiantly asked, "Have I no more use to you, now that you know? Now that I defied to the point of no return, my tyrant?"
 
+"Because if I am a tyrant, you should know that anyone is only no use of me until I declare it so. Because if you are in my clutches, you should know the greed needed to get at the very top."
 
+Luka pulled off the chain sharply, cutting off Karter's wrist and leaking blood pulled close to Luka's lips and _sucked_.
 
+"What the hell do you think you are doing?!" Karter used the forward momentum Luka dragged him into further and pushed Luka to the ground, and removed his bloody hand away from the maniac.
+
+"The final ingridient," Luka licked his lips, "You anamolies were interesting specimens, to the blood that runs into your veins. And out of all of them, despite how weak you think you are, you had always been the _most interesting_. And if there was one anamoly I wanted to inherit from..."
+
+"It's the one that I would want to truly conquer over."
+
+Suddenly, Luka spasmed, loosening Karter's grip until a wave of energy released from the body and had Karter jumping out of the way even when he tried to hold on and could only see in absolute shock what was happening, until he had to shout:
 
 "What have you become?" Karter's horror only served to amuse Luka further.
 
 Luka's snake green eyes became sharper, as his body had scaled over even to his hair ever changing from silky blond to hardened platinum scaling over. The man had turned reptilian but at least keeping his bipedal form and only adding instead of completely transmuting.
 
-Luka was no longer human, not just a criminal and the scum of the earth to become something lesser and more. Such transformation only confirmed that Luka was no idiot, but was sure a fool.
+Luka was no longer human, not just a criminal and the scum of the earth to become something lesser and more. Such transformation only confirmed that Luka was no idiot, but was sure a _fool_.
 
-"Do you know what you have done?" Karter's horrified tone continued the demand, this time the one searching through the reptilian like eyes for an answer to insanity. No such luck.
+"Do you know what you have done?" Karter's grim tone continued the demand, this time the one searching through the reptilian like eyes for an answer to insanity. No such luck.
 
+"Maintaining the upper hand. Making sure we truly fight on even grounds. Because no matter what weapons I have, they can be easily disarmed unlike your powers. What's the matter? Not used to getting the upper hand snatched?" Luka taunted.
 
+"No," Karter quietly said, knowing his objective had not changed, "Because it doesn't change that you need to be put down more than ever."
 
-<p align = center> *** </p>
-                            
-"So what happened next, Mom?" 
+"I look forward to you trying," Luka mocked.
 
-"Karter managed to save those Luka imprisoned in the end, ealthough Luka had escaped monstrous. 
+"I look forward to you deluding," Karter countered.
 
-
-
-"Could the superpowered and the bionic ever get along, Mom?"
-
-"It has been so many years with too much resentment on both sides. The bionics never forgotten that it was superpowered influence that turned the once ordinary into monsters that no one saved them from and the superpowered will never forget that it was the ordinary who tortured them for the very power that turned into a self-inflicted downfall."
-
-"But we get along so well, Mom!"
-
-
-
-"That's because we are family. I'm always your Mom no matter who we all are."
-
-"Then why are you cursed and we are not?"
-
-It was easy to know Luka's brood, for the cursed hair that no other soul would ever posses after the infamous changing colour. The scaly platinum blond shone out from both twins' hair with only the difference between shades of gold and silver. So did their mother's in both colours, as she sighed at such inquisitve kids who could only be curious about such origins especially with how the world would look upon them, and the broken curse that has not been observed, ever.
-
-Truly her kids would have to get the most damning trait out of their ancestor that started it all, for the very world they lived in.
-
-"That would be for us to find out, and even then maybe it would be best left unanswered."
-
-The mother could see that her kids were not happy with such an answer but let it slide when they can see it in her eyes that she truly could not answer. She simply swept them into a hug instead, earning delightful screams from the children.
-
-"Because no matter what, everything will be alright."
-
-~~Such confidence had also been their ancestor's trait, alongside curiosity as the mother had forgotten to recall. And so as the very fact that both traits were what damned Luka all along to his cat and mouse with Karter.~~
-
-~~Such coincidences can almost infer repeated history, and yet only time will tell to such reasonings.~~
+Both of them charged at the same time as the night was nowhere near close to its end.
 
 # Writer's Notes
-I was checking out my Canva and lo behold there were non-fanfic covers just waiting to be used. Going through my notebook of cringe was a riot aka wincing moment but looking past that, there's a lot that ended up being salvageable to cook up this story. Titled lore for the reason while this is certainly not part of my WIPs, the backstory for superpowered, mutants and bionics is definitely part of the worldbuilding history that is going to define my WIP. It's teaching me that even when my ideas and writing have changed from my younger years, it does not mean that I can't take something away from my own essence across ages. Also a lot more worldbuilding and explanation, maybe because I have the tendency to over-explain or I didn't think I could throw readers without context about who Luka and Karter were. Damn, one day I will write pure anti-BL, mark my words. I also realized how long this work was compared to others. Geez, I could have done better a bit shorter~ Next time.
+I was checking out my Canva and lo behold there were non-fanfic covers just waiting to be used. Going through my notebook of cringe was a riot aka wincing moment but looking past that, there's a lot that ended up being salvageable to cook up this story. Titled lore for the reason while this is certainly not part of my WIPs, it is a small part of the backstory for another. It's teaching me that even when my ideas and writing have changed from my younger years, it does not mean that I can't take something away from my own essence across ages. Also a lot more worldbuilding and explanation, maybe because I have the tendency to over-explain or I didn't think I could throw readers without context about who Luka and Karter were. Damn, one day I will write pure anti-BL, mark my words. I also realized how long this work was compared to others. Geez, I could have done better a bit shorter~ Next time. And I swear that this will not be the end of their story, because yes they have potential! I will 100% explain more what is going on with this pair. I swear!
