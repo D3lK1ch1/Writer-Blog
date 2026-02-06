@@ -3,6 +3,7 @@ layout: post
 title:  "The Price"
 date:   2026-01-22 
 categories: Anthology
+tags: [prologue-wip]
 ---
 <div class = image>
 <img src ="{{site.baseurl}}/assets/images/ThePrice.png">
