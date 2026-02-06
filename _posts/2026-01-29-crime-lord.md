@@ -2,7 +2,7 @@
 layout: post
 title:  "Crime Lord"
 date:   2026-01-29 
-categories: Lore
+tags: [lore, hatred, fights, violence, niches]
 ---
 
 <div class = image>

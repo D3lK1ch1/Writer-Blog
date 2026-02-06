@@ -63,6 +63,14 @@
     font-weight: bold;
 }
 
+.post-tags{
+    margin-left: 1rem;
+    color: #666;
+    font-size: 0.85em;
+    font-style: italic;
+    font-weight: normal;
+}
+
 .post-header{
     display: block;
     padding: 2%;

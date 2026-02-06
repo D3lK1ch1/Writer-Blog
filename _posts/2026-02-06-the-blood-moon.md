@@ -2,7 +2,7 @@
 layout: post
 title:  "The Blood Moon"
 date:   2026-02-06
-categories: Lore
+tags: [lore, vampires]
 ---
 
 What makes the moon glow red? It doesn't happen every full moon, but it always does happen on a full moon and never half, quarter or new, as bright as the fiery sun and yet fiery tainted in darkness, glowing most ominously for graveyards especially like a bloody wave over bodies that now bleed a whole lot less on what once gave life.

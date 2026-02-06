@@ -2,7 +2,7 @@
 layout: post
 title:  "Mask, Gun, Cards"
 date:   2026-01-30 
-categories: Anthology
+tags: [anthology, conspiracy]
 ---
 <div align = center>
 <p style ="font-style: italic;">See no evil<br>

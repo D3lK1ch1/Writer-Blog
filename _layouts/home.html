@@ -22,6 +22,9 @@ layout: default
         <a class="post-link" href="{{ post.url | relative_url }}">
           {{ post.title | escape }}
         </a>
+        {%- if post.tags.size > 0 -%}
+          <span class="post-tags">[{{ post.tags | join: ", " }}]</span>
+        {%- endif -%}
       </li>
     {%- endfor -%}
   </ul>

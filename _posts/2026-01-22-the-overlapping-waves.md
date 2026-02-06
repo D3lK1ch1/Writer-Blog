@@ -2,7 +2,7 @@
 layout: post
 title:  "Overlapping Waves"
 date:   2026-01-22 
-categories: Anthology
+tags: [anthology]
 ---
 
 A beach resort sounded something luxurious and fun. Maybe it's the beach that immediately shows you the sandy shores and the waves tickling at your feet shoved right into your eyes. Or the resort that immediately associates itself with luxury, a word drilled to spark anyone's wildest fancies.  And how can luxury and fun not go hand in hand?

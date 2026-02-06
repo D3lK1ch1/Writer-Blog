@@ -2,7 +2,7 @@
 layout: post
 title:  "Do Souls Dream?"
 date:   2026-01-27 
-categories: Lore
+tags: [lore, ghosts]
 ---
 
 XX-XX-XXXX

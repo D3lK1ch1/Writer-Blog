@@ -6,7 +6,7 @@ Live Demo here: https://d3lk1ch1.github.io/Writer-Blog/
 ## Features
 * Layout: Signature at top with Name. About at the bottom (Done)
 * Header: Anthologies, Niches, Lore, Conspiracies (Done)
-* Side-bar: Search-box for tags that update upon themselves depending on what I blog ex: #shortstories #antiBL #prologue #lore #mystery etc (In Progress)
+* Side-bar: Search-box for tags that update upon themselves depending on what I blog ex: #shortstories #antiBL #prologue #lore #mystery etc (Done)
 * Center: Where people pull up my blogs (Done)
 * Blogs: Have a comment section for anyone that bothers (Done - Only GitHub users can comment on posts, because using GitHub to host the page.)
 

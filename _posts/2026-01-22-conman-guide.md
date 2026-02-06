@@ -2,7 +2,7 @@
 layout: post
 title:  "The Conman Guide"
 date:   2026-01-22 
-categories: Conspiracy
+tags: [conspiracy]
 ---
 
 My legacy will not be forgotten, that I promised myself. Living in a world believing for consistency and discipline with unwavering faith that others can emulate such steps on what they have applied to themselves to achieve their high ground, such a world does not take notice to people like me, not necessarily living off the fumes of motivation and inspiration, or the lazy layabouts that would forgo any effort in the first place. 

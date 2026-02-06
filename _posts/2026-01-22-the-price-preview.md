@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "The Price"
-date:   2026-01-22 
-categories: Anthology
-tags: [prologue-wip]
+date:   2026-01-22
+tags: [prologue-wip, anthology, ghosts]
 ---
 <div class = image>
 <img src ="{{site.baseurl}}/assets/images/ThePrice.png">

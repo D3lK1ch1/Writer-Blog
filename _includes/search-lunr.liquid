@@ -28,10 +28,8 @@ var documents = [
 
 var idx = lunr(function () {
     this.ref('id');
-    this.field('title', { boost: 10 });
-    this.field('tags', { boost: 5 });
-    this.field('categories', { boost: 5 });
-    this.field('body');
+    this.field('tags', { boost: 10 });
+    this.field('categories', { boost: 10 });
 
     documents.forEach((doc) => {
         this.add(doc);
@@ -55,12 +53,12 @@ function lunr_search(term) {
             //if results
             for (var i = 0; i < results.length; i++) {
                 var ref = results[i].ref;
-                var url = documents[ref].url;
                 var title = documents[ref].title;
-                var body = documents[ref].body.substring(0, 160) + '...';
+                var tags = documents[ref].tags;
                 var li = document.createElement('li');
                 li.className = 'lunrsearchresult';
-                li.innerHTML = "<a href='" + url + "'><span class='title'>" + escapeHtml(title) + "</span><br /><span class='body'>" + escapeHtml(body) + "</span><br /><span class='url'>" + escapeHtml(url) + "</span></a>";
+                var tagsHtml = tags ? "<span class='tags'>" + escapeHtml(tags) + "</span>" : '';
+                li.innerHTML = "<a href='" + "'><span class='title'>" + escapeHtml(title) + "</span>" + (tagsHtml ? "<br />" + tagsHtml : "")  + "</span></a>";
                 document.querySelectorAll('#lunrsearchresults ul')[0].appendChild(li);
             }
         } else {
@@ -74,6 +72,7 @@ function lunr_search(term) {
     #lunrsearchresults {padding-top: 0.2rem;}
     .lunrsearchresult {padding-bottom: 1rem;}
     .lunrsearchresult .title {color: #d9230f;}
+    .lunrsearchresult .tags {color: #666; font-size: 0.85em; font-style: italic;}
     .lunrsearchresult .url {color: silver;}
     .lunrsearchresult a {display: block; color: #777;}
     .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
