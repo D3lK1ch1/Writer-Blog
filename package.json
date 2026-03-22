@@ -1,0 +1,16 @@
+{
+  "name": "writerblog-tests",
+  "version": "1.0.0",
+  "description": "Test runner scripts for WriterBlog Jekyll site",
+  "private": true,
+  "scripts": {
+    "test": "bundle exec rake test",
+    "test:build": "bundle exec rake \"test:build\"",
+    "test:content": "bundle exec rake \"test:content\"",
+    "test:links": "bundle exec rake \"test:links\"",
+    "validate": "ruby _test/post_validator.rb",
+    "build": "bundle exec jekyll build",
+    "serve": "bundle exec jekyll serve"
+  },
+  "devDependencies": {}
+}

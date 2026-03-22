@@ -19,6 +19,11 @@ group :jekyll_plugins do
 
 end
 
+group :test do
+  gem "html-proofer"
+  gem "rake"
+end
+
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 platforms :mingw, :x64_mingw, :mswin, :jruby do
