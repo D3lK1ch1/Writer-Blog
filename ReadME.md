@@ -16,6 +16,8 @@ Live Demo here: https://d3lk1ch1.github.io/Writer-Blog/
 ## Test Cases - Will be waiting for feedback for all once launched
 * Ensure that the link goes somewhere (Fixed with a vengeance)
 * Ensure that it is hosted properly (Managed)
-* Ensure that it is synced well with GitHub to add more posts (Pending)
+* Ensure that it is synced well with GitHub to add more posts (Managed)
+* Checking that the search box would route link to story (Done)
+* Actually making test suites (Passed)
 
 Feedback is always appreaciated, from my writing skills to my coding workflow that I could honestly do better, especially integrating AI.
