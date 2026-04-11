@@ -21,7 +21,7 @@
 title: ANLC-Site
 description: >- # this means to ignore newlines until "baseurl:"
   Writer's Blog
-author: Kasey Harts
+author: Kasey Hearts
 logo: /assets/images/KaseyHeartsSign.png
 
 baseurl: "/Writer-Blog" # the subpath of your site, e.g. /blog - dependent on the rep name so leave empty
@@ -30,9 +30,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #Social links
 wattpad: "https://www.wattpad.com/user/DhizKCH"
 ao3: "https://archiveofourown.org/users/DhizKCH/"
+substack: "https://kaseyhearts.substack.com/"
 
 wattpad-icon: /assets/images/wattpad.png
 ao3-icon: /assets/images/ao3.png
+substack-icon: /assets/images/substack.png
 
 # Build settings
 plugins:
