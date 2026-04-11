@@ -1,23 +1,45 @@
-# ANLC - Anthologies, Niches, Lore & Conspiracy by Kasey Hearts
-A writer blog hosted by GitHub to compile and journal-ized (here's to letting me make up words :p) any writing ideas that lead to a bigger picture for my OG WIPs that refuse any completion stranded in limbo. To un-limbo myself, the idea snippets, first chapters, short stories, history and settings and my tropes would be consistently published 2 - 3 days per week. To build up the writing muscle, to feel like I'm going somewhere, to apply consistency and discipline without the fear blanking.
+# ANLC — Anthologies, Niches, Lore & Conspiracy
 
-Live Demo here: https://d3lk1ch1.github.io/Writer-Blog/
+**by Kasey Hearts**
 
-## Features
-* Layout: Signature at top with Name. About at the bottom (Done)
-* Header: Anthologies, Niches, Lore, Conspiracies (Done)
-* Side-bar: Search-box for tags that update upon themselves depending on what I blog ex: #shortstories #antiBL #prologue #lore #mystery etc (Done)
-* Center: Where people pull up my blogs (Done)
-* Blogs: Have a comment section for anyone that bothers (Done - Only GitHub users can comment on posts, because using GitHub to host the page.)
+A writer's blog built on Jekyll and hosted via GitHub Pages. A place to publish ideas, first chapters, short stories, world-building notes, and lore that feed into larger WIPs — posted consistently to build the writing muscle without the fear-blank.
 
-## Tech Stack / Configuration
-* Jekyll, in creating this blog. I'm leaving it to the documentation and hope it fits my criteria -> Update: A learning process but tackling the basics down - from using AI to aid me and then doing the core bits myself the second time to know what is necessary and what has been unnecessarily added by AI. Can less be more?
+---
 
-## Test Cases - Will be waiting for feedback for all once launched
-* Ensure that the link goes somewhere (Fixed with a vengeance)
-* Ensure that it is hosted properly (Managed)
-* Ensure that it is synced well with GitHub to add more posts (Managed)
-* Checking that the search box would route link to story (Done)
-* Actually making test suites (Passed)
+## Live Demo
 
-Feedback is always appreaciated, from my writing skills to my coding workflow that I could honestly do better, especially integrating AI.
+[d3lk1ch1.github.io/Writer-Blog](https://d3lk1ch1.github.io/Writer-Blog/)
+
+---
+
+## Current Features
+
+| Feature | Status |
+|---|---|
+| Signature header with author name | Done |
+| Navigation: Anthologies, Niches, Lore, Conspiracies | Done |
+| Tag-based sidebar search (Lunr.js) | Done |
+| Post feed at center of page | Done |
+| Comment section via Utterances (GitHub login) | Done |
+| Posts grouped by month and year | Done |
+| RSS feed via jekyll-feed | Done |
+| Test suite (build, content, links) | Done |
+
+---
+
+## Built With
+
+- [Jekyll](https://jekyllrb.com/) — static site generator
+- [GitHub Pages](https://pages.github.com/) — hosting and deployment
+- [Lunr.js](https://lunrjs.com/) — client-side tag/search indexing
+- [Utterances](https://utteranc.es/) — comment system backed by GitHub issues
+- [jekyll-feed](https://github.com/jekyll/jekyll-feed) — RSS feed generation
+- Ruby / Bundler / Rake — build tooling and test runner
+
+---
+
+## License
+
+Copyright © 2026 Kasey Hearts. All rights reserved.
+
+This blog and all its content — writing, code, and assets — are the sole property of the author. No part of this project may be copied, modified, distributed, or used without explicit written permission.
