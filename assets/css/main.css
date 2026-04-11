@@ -27,13 +27,19 @@
 
 .social-media-list{
     list-style-type: none;
+    display: flex;
+    align-items: center;
     gap: 15px;
     padding: 0;
     margin: 0;
 }
-.social-icons{
+.social-icon{
     align-items: center;
     gap: 10px;
+    width: 28px;
+    height: 28px;
+    display: flex;
+    object-fit: contain;
 }
 
 .footer-col-1{
