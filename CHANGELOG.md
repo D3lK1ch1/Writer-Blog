@@ -12,7 +12,8 @@ Format: `[version] — date — summary`
 - Added test suite: build validation, content/post validation, link checks (Rake + html-proofer)
 - New posts published
 - Fixed local dev URL configuration
-
+- Added new social icon Substack in the footer 
+- Fixed footer styling for social icons
 ---
 
 ## [1.3.0] — 2026-02
